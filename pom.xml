@@ -18,7 +18,7 @@
 		<maven.compiler.source>17</maven.compiler.source>
 		<maven.compiler.target>17</maven.compiler.target>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.organization>jVucetic</sonar.organization>
+		<sonar.organization>jvucetic</sonar.organization>
 		<sonar.projectKey>jVucetic_basic-spring-boot</sonar.projectKey>
 	</properties>
 
